@@ -11,3 +11,5 @@ This repository contains PowerShell Scripts that can be used to maintain your IT
 Site contains GitHub Pages - https://scripts.lukeleigh.com/
 
 Please visit the website for more information regarding the scripts and their uses.
+
+![Alt](https://repobeats.axiom.co/api/embed/71ccb878b85d8aca704a9aa03e0af34e5bb13e31.svg "Repobeats analytics image")
